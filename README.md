@@ -17,13 +17,12 @@ The Amazon Product Price Scraper is a Streamlit-based application that allows us
 ---
 
 ## **Installation**
-
-1. Clone this repository:
+- 1. Clone this repository:
    ```bash
    git clone https://github.com/kevin-giftson/Amazon_Product_Price_Scraper.git
    cd Amazon_Product_Price_Scraper
    ```
-2. Install the required Python packages:
+- 2. Install the required Python packages:
   ````bash
   pip install -r requirements.txt
   ```
