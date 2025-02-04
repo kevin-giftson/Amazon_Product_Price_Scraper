@@ -23,7 +23,7 @@ The Amazon Product Price Scraper is a Streamlit-based application that allows us
    cd Amazon_Product_Price_Scraper
    ```
 - 2. Install the required Python packages:
-  ````bash
+  ```bash
   pip install -r requirements.txt
   ```
 ---
